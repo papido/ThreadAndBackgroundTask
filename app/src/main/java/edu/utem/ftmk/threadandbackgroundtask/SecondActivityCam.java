@@ -24,7 +24,7 @@ import java.util.concurrent.Executors;
 import edu.utem.ftmk.threadandbackgroundtask.databinding.ActivitySecondCamBinding;
 
 
-public class SecondActivityCam extends AppCompatActivity {.infla
+public class SecondActivityCam extends AppCompatActivity {
 
     Executor executor;
     Handler handler;
